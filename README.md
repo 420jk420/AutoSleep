@@ -6,7 +6,6 @@ A simple Python script to automatically put your PC to sleep after a period of i
 - Automatically sleeps your PC after a set idle time
 - Lightweight and runs silently in the background
 - Easy to customize (sleep timer, checks, notifications)
-- Cross-platform (Windows/Linux/macOS)
 
 ## 💡 Why?
 Some systems simply won't enter sleep mode on their own — Auto Sleep fixes that by enforcing sleep after you've been inactive for a while.
