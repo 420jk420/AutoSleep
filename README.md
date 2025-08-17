@@ -14,7 +14,7 @@ Some systems simply won't enter sleep mode on their own — Auto Sleep fixes tha
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/420jk420/auto-sleep.git
+git clone https://github.com/420jk420/AutoSleep.git
 cd auto-sleep
 
 Install dependencies
