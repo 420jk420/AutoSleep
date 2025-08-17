@@ -23,8 +23,9 @@ pip install -r requirements.txt
 Run the script
 python auto_sleep.py
 
-Configuration
-IDLE_THRESHOLD_MINUTES = 30  # PC will sleep after 30 minutes of inactivity
+Configuration (sleep.py)
+IDLE_TIME_LIMIT = 5400 # Time limit for inactivity (in seconds)
+NOTIFICATION_TIMEOUT = 60  # Time limit for user to respond to notification (in seconds)
 
 Contributions Welcome
 Feel free to submit issues or pull requests! If your PC is stubborn like mine, this might save you some energy costs too.
