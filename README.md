@@ -5,7 +5,6 @@ A simple Python script to automatically put your PC to sleep after a period of i
 ## ✅ Features
 - Automatically sleeps your PC after a set idle time
 - Lightweight and runs silently in the background
-- Easy to customize (sleep timer, checks, notifications)
 
 ## 💡 Why?
 Some systems simply won't enter sleep mode on their own — Auto Sleep fixes that by enforcing sleep after you've been inactive for a while.
@@ -21,7 +20,7 @@ Install dependencies
 pip install -r requirements.txt
 
 Run the script
-python auto_sleep.py
+run.bat
 
 Configuration (sleep.py)
 IDLE_TIME_LIMIT = 5400 # Time limit for inactivity (in seconds)
